@@ -15,13 +15,11 @@
     </properties>
 
     <!--    Что добавили-->
-
     <modules>
         <module>db</module>
         <module>api</module>
         <module>service</module>
     </modules>
-
     <!--    Что добавили-->
 
     <build>
