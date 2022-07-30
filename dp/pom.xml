@@ -11,5 +11,7 @@
     <artifactId>db</artifactId>
     <packaging>jar</packaging>
 
-
+    <modules>
+        <module>../service</module>
+    </modules>
 </project>
